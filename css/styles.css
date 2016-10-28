@@ -2,14 +2,93 @@ body {
   background-color: #f5f5f5;
 }
 
+h1 {
+  color: #3A56A2;
+  padding-top: 0px;
+  margin: 15px 0px 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #ccc;
+}
+
+.col-md-6 {
+  border: 1px solid #ccc;
+  background: #fff;
+  margin-top: 100px;
+  border-radius: 4px;
+  margin-bottom: 200px;
+  padding-bottom: 8px;
+}
+
+form {
+  margin: 15px 0px;
+  border-top: 1px solid #ccc;
+  padding-top: 15px;
+}
+
+label {
+  color: #ff0000;
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+
+.btn-default {
+  background-color: #f1f0e3;
+}
+
 .ping {
-  color: blue;
+  color: #1921B1;
+  /*text-shadow: 0px 0px 3px #000;*/
+  /*letter-spacing: 1px;*/
 }
 
 .pong {
-  color: red;
+  color: #3bcbef;
+  /*font-weight: bold;*/
+  /*text-shadow: 0px 0px 3px #000;*/
+  /*letter-spacing: 1px;*/
 }
 
 .ping-pong {
-  color: green;
+  color: #34d02c;
+  /*font-weight: bold;*/
+  /*text-shadow: 0px 0px 2px #555;*/
+  /*letter-spacing: 1px;*/
+}
+
+ul#top-list {
+  list-style: decimal;
+  padding-left: 25px;
+}
+
+ul#top-list li {
+  padding-bottom: 5px;
+}
+
+ul#output {
+  list-style: square inside;
+  background-color: #fff;
+  padding: 0;
+}
+
+ul#output li {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-bottom: none;
+  padding: 5px;
+  padding:  6px 0px 6px 12px;
+}
+
+ul#output li:first-child {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+ul#output li:last-child {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-bottom: 1px solid #ccc;
+}
+
+li .left-fix {
+  margin-left: -10px;
 }

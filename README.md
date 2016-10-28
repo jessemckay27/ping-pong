@@ -22,7 +22,7 @@ _Created a PingPong program that asks the user to input a number between 1 and 2
 * (2) if number is divisible by 5 or 3 push "pong" as list item to numberArray;
 * (3) if number is divisible by 3 push "ping" as list item to numberArray;
 
-####Example:
+#### Example:
 * 60 returns as "pong";
 * 45 returns as "ping-pong";
 * 33 returns as "ping";
@@ -39,7 +39,7 @@ _Created a PingPong program that asks the user to input a number between 1 and 2
 
 * Download our files from Github Repository
 * Open Index.HTML in local browser
-* You may view our website directly at (https://jessemckay27.github.io/tracks/)
+* You may view our website directly at (https://jessemckay27.github.io/ping-pong/)
 
 ## Support and contact details
 
