@@ -17,7 +17,6 @@ _Created a PingPong program that asks the user to input a number between 1 and 2
 #### Step 2:
 * declare empty array = numberArray;
 * create loop starting at 1, ending at number;
-
 * (1) if number is divisible by 15 and 5 and 3 push "ping-pong" as list item to numberArray;
 * (2) if number is divisible by 5 or 3 push "pong" as list item to numberArray;
 * (3) if number is divisible by 3 push "ping" as list item to numberArray;
