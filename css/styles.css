@@ -13,7 +13,7 @@ h1 {
 .col-md-6 {
   border: 1px solid #ccc;
   background: #fff;
-  margin-top: 100px;
+  margin-top: 60px;
   border-radius: 4px;
   margin-bottom: 200px;
   padding-bottom: 8px;
@@ -37,22 +37,14 @@ label {
 
 .ping {
   color: #1921B1;
-  /*text-shadow: 0px 0px 3px #000;*/
-  /*letter-spacing: 1px;*/
 }
 
 .pong {
   color: #3bcbef;
-  /*font-weight: bold;*/
-  /*text-shadow: 0px 0px 3px #000;*/
-  /*letter-spacing: 1px;*/
 }
 
 .ping-pong {
   color: #34d02c;
-  /*font-weight: bold;*/
-  /*text-shadow: 0px 0px 2px #555;*/
-  /*letter-spacing: 1px;*/
 }
 
 ul#top-list {
@@ -74,7 +66,6 @@ ul#output li {
   background-color: #fff;
   border: 1px solid #ccc;
   border-bottom: none;
-  padding: 5px;
   padding:  6px 0px 6px 12px;
 }
 
