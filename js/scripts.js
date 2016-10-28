@@ -1,4 +1,4 @@
-function pingPong(number) {
+function setArray(number) {
   var numberArray = [];
   if (number <= 200) {
     for (i = 1; i <= number; i++) {
@@ -21,6 +21,6 @@ function pingPong(number) {
 $(document).ready(function() {
   $("form").submit(function(event) {
     event.preventDefault();
-    $("#output").html(pingPong($("#input").val()));
+    $("#output").html(setArray($("#input").val()));
   });
 });

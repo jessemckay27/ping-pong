@@ -22,14 +22,14 @@ _Created a PingPong program that asks the user to input a number between 1 and 2
 * (3) if number is divisible by 3 push "ping" as list item to numberArray;
 
 #### Example:
-* 60 returns as "pong";
 * 45 returns as "ping-pong";
 * 33 returns as "ping";
 * 25 returns as "pong";
 * 15 returns as "ping-pong";
 * 9 returns as "ping";
 * 6 returns as "ping";
-
+* 2 returns as "2";
+* 7 returns as "7";
 #### Step 3:
 * use jquery to output answer into unordered list;
 * give classes to each of the result types;

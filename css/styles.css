@@ -4,8 +4,8 @@ body {
 
 h1 {
   color: #3A56A2;
-  padding-top: 0px;
   margin: 15px 0px 20px;
+  padding-top: 0px;
   padding-bottom: 15px;
   border-bottom: 1px solid #ccc;
 }
@@ -14,9 +14,9 @@ h1 {
   border: 1px solid #ccc;
   background: #fff;
   margin-top: 60px;
-  border-radius: 4px;
   margin-bottom: 200px;
   padding-bottom: 8px;
+  border-radius: 4px;
 }
 
 form {
