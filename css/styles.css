@@ -1,0 +1,15 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.ping {
+  color: blue;
+}
+
+.pong {
+  color: red;
+}
+
+.ping-pong {
+  color: green;
+}
