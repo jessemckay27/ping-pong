@@ -12,9 +12,9 @@ function pingPong(number) {
         numberArray.push("<li>" + i + "</li>")
       }
     }
-    return numberArray;  
+    return numberArray;
   } else {
-    alert("please enter a number between 1 and 1000");
+    alert("Please enter a number from 1 to 200");
   }
 }
 
