@@ -30,6 +30,7 @@ _Created a PingPong program that asks the user to input a number between 1 and 2
 * 6 returns as "ping";
 * 2 returns as "2";
 * 7 returns as "7";
+
 #### Step 3:
 * use jquery to output answer into unordered list;
 * give classes to each of the result types;
